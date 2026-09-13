@@ -1,10 +1,5 @@
 TODO
-<<<<<<< HEAD
-Spiele: Bob
-Trinken:
-Snacks:
-=======
-Spiele: Flaschendrehen, Justin mobben
-Trinken: Belvedere, Tiger, Malibu
-Snacks: Malbaro, Lucky stricke, coke
->>>>>>> da512f4af2d2ab4437af3520e08f68d32ef45cf9
+Spiele: Flaschendrehen, Justin mobben, Bob, Ana
+Trinken: Belvedere, Tiger, Malibu, Jägermeister
+Snacks: Malboro, Lucky strike, coke, LSD
+
